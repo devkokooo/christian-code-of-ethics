@@ -144,11 +144,11 @@ This is a **one-way promise, or covenant**. In other words, the developers are s
 
 ## 4. Grace Clause
 
-This Code is not a means of salvation. No one is saved by following these rules. Salvation comes by **grace through faith alone** in Jesus Christ [Eph 2:8-9](https://www.esv.org/Ephesians+2:8).
+This Code is not a means of salvation. No one is saved by following these rules. Salvation comes by **grace through faith alone** in Jesus Christ [[Eph 2:8-9](https://www.esv.org/Ephesians+2:8)].
 
 This Code is a **response to grace**, not a condition for it. It represents the founder's commitment to live out their faith in practical ways within the software community, through words, actions, and code.
 
-The Psalms teach that the life of faith includes suffering, despair, sin, and oppresion. Lament is the most prominent type of psalm, and notes of distress sound across other types as well. Whatever the season, this Code affirms that the life of faith is lived in relationship with God and others.
+The Psalms teach that the life of faith includes suffering, despair, sin, and oppression. Lament is the most prominent type of psalm, and notes of distress sound across other types as well. Whatever the season, this Code affirms that the life of faith is lived in relationship with God and others.
 
 ## 5. Disclaimer
 
