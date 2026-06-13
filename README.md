@@ -23,7 +23,7 @@ This is a **one-way promise, or covenant**. In other words, the developers are s
 ## 3. The Code (100 Clauses)
 
 ### I. Foundational Commands
-1. Love God with all your heart, soul, and strength [[Deut 6:5](https://www.esv.org/Deuteronomy+6:5)].
+1. Love God with all your heart, soul, mind and strength [[Deut 6:5](https://www.esv.org/Deuteronomy+6:5); [Mark 12:29-31](https://www.esv.org/Mark+12:29)].
 2. Love your neighbor as yourself [[Lev 19:18](https://www.esv.org/Leviticus+19:18); [Matt 22:39](https://www.esv.org/Matthew+22:39)].
 
 ### II. The Ten Commandments
